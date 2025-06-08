@@ -1,8 +1,13 @@
 import './App.css'
+import Card from './components/Card';
 
-function App() {
+const App = () => {
   return (
-    yo
+    <div className="App">
+      <h1>SF Giant Games</h1>
+      <Card />
+      
+    </div>
   )
 }
 
