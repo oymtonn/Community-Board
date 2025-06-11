@@ -1,5 +1,4 @@
 import React from 'react';
-// import './components/Game.css'
 
 const Game = (props) => {
     return (
@@ -7,6 +6,9 @@ const Game = (props) => {
             <h1>Date: {props.date}</h1>
             <h2>{props.location}</h2>
             <img src="./src/assets/giants_s.png" alt="SF Giants"/>
+            <a href={props.link} target="_blank">
+                <button class="detailsButton">Get Details</button>
+            </a>
         </td>
     )
 }

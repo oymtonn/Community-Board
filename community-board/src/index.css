@@ -4,6 +4,7 @@ body {
     place-items: center;
     min-width: 320px;
     min-height: 100vh; 
+    background-color: rgb(227, 227, 193);
 }
   
 th {
@@ -25,6 +26,17 @@ img {
     height:600px;
     width:400px;
     border-style:solid;
-    border-color:black;
-    border-radius:3px;
+    border-color:#fe5a1d;
+    border-width:2.5px;
+    transition: transform 0.3s ease;
+}
+
+.Game:hover{
+    transform:scale(1.016);
+    z-index:5;
+}
+
+.detailsButton{
+    width:90px;
+    height:30px;
 }
