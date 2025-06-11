@@ -27,13 +27,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='//imgur.com/a/yfx3K9O' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/yfx3K9O' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur
